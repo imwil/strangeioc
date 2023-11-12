@@ -1,0 +1,20 @@
+{
+  "name": "com.strangeioc.strangeioc",
+  "version": "1.0.5",
+  "displayName": "StrangeIoC",
+  "description": "The IoC framework for Unity3D and C#",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "di",
+    "dependencyinjector",
+    "dependencyinjection",
+    "strange",
+    "ioc"
+  ],
+  "author": {
+    "name": "Marc Tanenbaum",
+    "email": "tanenbaum@sfmultimedia.net",
+    "url": "http://www.sfmultimedia.net/"
+  }
+}
